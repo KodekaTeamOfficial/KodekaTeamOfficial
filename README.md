@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-**KodekaTeamOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+**KodekaTeamOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
+Here are some ideas to get my started:
 
 - 🔭 I’m currently working on [Develope Web Managemen System]
 - 🌱 I’m currently learning [CODEIGNITER, LARAVEL, Js Framework, Cloud]
