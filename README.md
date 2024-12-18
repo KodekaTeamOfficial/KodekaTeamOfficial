@@ -4,9 +4,9 @@
 Here are some ideas to get my started:
 
 - 🔭 I’m currently working on [Develope Web Managemen System]
-- 🌱 I’m currently learning [CODEIGNITER, LARAVEL, Js Framework, Cloud]
+- 🌱 I’m currently learning [PHP LARAVEL, KingJS (NodeJS, etc), Cloud Computing]
 - 👯 I’m looking to collaborate on [My Future Project System]
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with [Best friend for collab]
 - 💬 Ask me about ...
 - 📫 How to reach me: [https://github.com/KodekaTeamOfficial]
 - 😄 Pronouns: ...
