@@ -6,21 +6,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kodekateamofficial" alt="kodekateamofficial" /></a> </p>
 
 - 🔭 I’m currently working on [None at the moment](https://example.com)
-
 - 🌱 I’m currently learning **Laravel, NodeJS, NextJS, ReactJS, ReactNative, Rust, GoLang, etc.**
-
 - 👯 I’m looking to collaborate on [None at the moment](https://example.com)
-
 - 🤝 I’m looking for help with [None at the moment](https://example.com)
-
 - 👨‍💻 All of my projects are available at [github.com/kodekateam-projects](github.com/kodekateam-projects)
-
 - 📝 I regularly write articles on [https://example.com](https://example.com)
-
 - 📫 How to reach me **maskodeka@gmail.com**
-
 - 📄 Know about my experiences [https://example.com](https://example.com)
-
 - ⚡ Fun fact **I'm Very Nolife**
 
 <h3 align="left">Connect with me:</h3>
