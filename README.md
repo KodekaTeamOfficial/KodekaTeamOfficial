@@ -15,7 +15,7 @@
 - 📄 Know about my experiences [https://example.com](https://example.com)
 - ⚡ Fun fact **I'm Very Nolife**
 
-<h3 align="left" hidden>Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
