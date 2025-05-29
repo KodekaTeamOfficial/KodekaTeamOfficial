@@ -11,7 +11,7 @@
 - 🤝 I’m looking for help with [None at the moment](https://example.com)
 - 👨‍💻 All of my projects are available at [github.com/kodekateam-projects](github.com/kodekateam-projects)
 - 📝 I regularly write articles on [https://example.com](https://example.com)
-- 📫 How to reach me **maskodeka@gmail.com**
+- 📫 How to reach me **Nothing**
 - 📄 Know about my experiences [https://example.com](https://example.com)
 - ⚡ Fun fact **I'm Very Nolife**
 
