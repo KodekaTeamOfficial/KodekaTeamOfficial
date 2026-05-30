@@ -9,7 +9,7 @@
 </div>
 
 ## 🚀 About
-I build tools that help developers deploy, manage and scale applications.
+I am a fullstack web developer & Open-Source Maintainer on several projects that I work on..
 
 My interests include:
 - 🐳 Container Platforms
@@ -23,7 +23,13 @@ Currently working on a modern deployment platform focused on simplicity and self
 ## ⚙️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,vue,nuxt,nextjs,php,laravel,docker,nginx,linux,postgres,mysql,redis,mongodb,github,gitlab,cloudflare" />
+<img src="https://skillicons.dev/icons?i=php,laravel,ts,js,nodejs,vue,nuxt,nextjs,nestjs,docker,nginx,linux,postgres,mysql,redis,mongodb,github,gitlab,cloudflare" />
+</p>
+
+## ⚙️ Current Learning Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=golang,rust,kubernetes" />
 </p>
 
 ## 🎯 Current Mission
@@ -35,28 +41,6 @@ Building a deployment platform that enables developers to:
 ✅ Manage Containers<br>
 ✅ Install One-Click Apps<br>
 ✅ Run Everything On Their Own Server
-
-## 🔥 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Deployment Platform
-
-Git-based deployment system for self-hosted environments.
-
-</td>
-
-<td width="50%">
-
-### 🐳 App Marketplace
-
-One-click installation system powered by Docker.
-
-</td>
-</tr>
-</table>
 
 ## ❤️ Open Source Philosophy
 
