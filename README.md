@@ -4,7 +4,7 @@
 
 ### Building Open Source Tools for Self-Hosting & Deployment
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=600&lines=Docker+Enthusiast;Open+Source+Maintainer;Fullstack+Developer;Self-Hosting+Advocate;Building+Developer+Tools" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&weight=600&pause=1000&center=true&vCenter=true&width=600&lines=Docker+Enthusiast;Open+Source+Maintainer;Fullstack+Developer;Self-Hosting+Advocate;Building+Developer+Tools" />
 
 </div>
 
