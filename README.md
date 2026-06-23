@@ -24,9 +24,9 @@ Currently working on a modern deployment platform focused on simplicity and self
 
 Building a deployment platform that enables developers to:
 
-- ✅ DOKTAINER - Main Work for this time.
-- ✅ FloopyLoop - For loop your short video footage (paused)
-- ✅ FloopyStream - Open source for help you stream to any social media (paused)
+- ✅ [DOKTAINER](https://github.com/DoktainerApp/doktainer) - Main Work for this time.
+- ✅ [FloopyLoop](https://github.com/KodekaTeam/FloopyLoop) - For loop your short video footage (paused)
+- ✅ [FloopyStream](https://github.com/KodekaTeam/FloopyStream) - Open source for help you stream to any social media (paused)
 
 
 ## ❤️ Open Source Philosophy
