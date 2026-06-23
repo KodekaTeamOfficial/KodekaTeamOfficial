@@ -20,27 +20,14 @@ My interests include:
 
 Currently working on a modern deployment platform focused on simplicity and self-hosting.
 
-## ⚙️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,ts,js,nodejs,vue,nuxt,nextjs,nestjs,docker,nginx,linux,postgres,mysql,redis,mongodb,github,gitlab,cloudflare" />
-</p>
-
-## ⚙️ Current Learning Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=golang,rust,kubernetes" />
-</p>
-
-## 🎯 Current Mission
+## 🎯 Current Work
 
 Building a deployment platform that enables developers to:
 
-✅ Connect Git Providers<br>
-✅ Deploy Applications<br>
-✅ Manage Containers<br>
-✅ Install One-Click Apps<br>
-✅ Run Everything On Their Own Server
+- ✅ DOKTAINER - Main Work for this time.
+- ✅ FloopyLoop - For loop your short video footage (paused)
+- ✅ FloopyStream - Open source for help you stream to any social media (paused)
+
 
 ## ❤️ Open Source Philosophy
 
@@ -54,6 +41,18 @@ I believe software should be:
 Build once.
 Deploy anywhere.
 Own your infrastructure.
+
+## ⚙️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,ts,js,nodejs,vue,nuxt,nextjs,nestjs,docker,nginx,linux,postgres,mysql,redis,mongodb,github,gitlab,cloudflare" />
+</p>
+
+## ⚙️ Current Learning Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=golang,rust,kubernetes" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=kodekateamofficial)
