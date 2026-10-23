@@ -1,61 +1,32 @@
-<div align="center">
+# KodekaTeam
 
-# 👋 Hey, I'm Kodeka
+**Building practical software. Sharing better tools.**
 
-### Building Open Source Tools for Self-Hosting & Deployment
+KodekaTeam is an independent software development team focused on building practical tools, open-source projects, and developer-focused solutions.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&weight=600&pause=1000&center=true&vCenter=true&width=600&lines=Docker+Enthusiast;Open+Source+Maintainer;Fullstack+Developer;Self-Hosting+Advocate;Building+Developer+Tools" />
+We believe good software should be useful, reliable, maintainable, and accessible to the people who build and use it.
 
-</div>
+Our work spans developer tooling, automation, infrastructure, and software engineering workflows — with a focus on solving real-world problems through thoughtful engineering.
 
-## 🚀 About
-I am a fullstack web developer & Open-Source Maintainer on several projects that I work on..
+## What We Do
 
-My interests include:
-- 🐳 Container Platforms
-- ☁️ Self-Hosting
-- 🚀 Deployment Automation
-- 🔧 DevOps
-- 🌐 Developer Experience
+- **Open Source** — Building and maintaining software that developers can explore, use, and improve.
+- **Developer Tools** — Creating utilities and workflows that make software development more efficient.
+- **Automation & Infrastructure** — Simplifying deployments, operations, and repetitive technical tasks.
+- **Engineering Practices** — Improving code quality, reliability, maintainability, and developer experience.
 
-Currently working on a modern deployment platform focused on simplicity and self-hosting.
+## Featured Projects
 
-## 🎯 Current Work
+Explore our repositories to discover the tools and projects we build.
 
-Building a deployment platform that enables developers to:
+- **[Superior Skills](https://github.com/KodekaTeam/superior-skills)** — Engineering-focused skills for AI coding agents, covering code review, testing, debugging, security, documentation, and more.
+- **[Doktainer](https://github.com/DoktainerApp/doktainer)** — is an open-source, self-hosted platform for managing servers, applications, containers, domains, SSL, backups, and deployment operations from a single web panel..
 
-- ✅ [DOKTAINER](https://github.com/DoktainerApp/doktainer) - Main Work for this time.
-- ✅ [FloopyLoop](https://github.com/KodekaTeam/FloopyLoop) - For loop your short video footage (paused)
-- ✅ [FloopyStream](https://github.com/KodekaTeam/FloopyStream) - Open source for help you stream to any social media (paused)
+## Our Principles
 
+- **Practical over complicated** — Solve real problems without unnecessary complexity.
+- **Quality over shortcuts** — Prioritize correctness, maintainability, and reliability.
+- **Open by default** — Share knowledge and tools whenever possible.
+- **Continuous improvement** — Learn, iterate, and make every release better.
 
-## ❤️ Open Source Philosophy
-
-I believe software should be:
-
-- Transparent
-- Self-Hostable
-- Community Driven
-- Developer Friendly
-
-Build once.
-Deploy anywhere.
-Own your infrastructure.
-
-## ⚙️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,ts,js,nodejs,vue,nuxt,nextjs,nestjs,docker,nginx,linux,postgres,mysql,redis,mongodb,github,gitlab,cloudflare" />
-</p>
-
-## ⚙️ Current Learning Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=golang,rust,kubernetes" />
-</p>
-
-## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=kodekateamofficial)
-
----
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kodekateamofficial&label=Profile%20views&color=0e75b6&style=flat" alt="kodekateamofficial" /> </p>
+*Built with curiosity. Improved through collaboration.*
